@@ -4,19 +4,19 @@
 
    • The IRCTC Train Booking System is a console-based railway ticket booking application developed using Core Java.
    • This system simulates a simplified version of the Indian Railway ticket booking platform, where users can:
-      - Register an account
-      - Login securely
-      - Search trains between stations
-      - Book train tickets
-      - View their booked tickets
-      - Cancel tickets
+       Register an account
+       Login securely
+       Search trains between stations
+       Book train tickets
+       View their booked tickets
+       Cancel tickets
 
    • The project is designed to strengthen Core Java fundamentals by implementing real-world features using OOP concepts, Collections Framework, and Java utilities.  
 
 ## 🌟 Key Features:
      • 👤 User Registration:
          New users can create an account by providing:
-         - Username
+          Username
          - Password
          - Full Name
          - Contact number
