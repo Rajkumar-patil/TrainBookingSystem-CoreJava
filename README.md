@@ -17,40 +17,40 @@
      • 👤 User Registration:
          New users can create an account by providing:
           Username
-         - Password
-         - Full Name
-         - Contact number
+          Password
+          Full Name
+          Contact number
 
    • 🔐 User Login System:
        Registered users can securely log in using:
-         - Username  
-         - Password
+          Username  
+          Password
 
    •  🔎 Train Search :
       Users can search for trains by entering:
-        - Source Station
-        - Destination Station
+         Source Station
+         Destination Station
         
         The system filters trains and shows available options.
 
   • 🎟 Ticket Booking:
     Users can book tickets by:
-        - Selecting a train
-        - Entering the number of seats
+         Selecting a train
+         Entering the number of seats
 
         If seats are available, the system generates a Ticket ID and confirms the booking.
 
  • 📄 View My Tickets:
    Users can view all their booked tickets, including:
-     - Ticket ID
-     - Train name
-     - Route
-     - Number of seats booked
-     - Passenger name
+      Ticket ID
+      Train name
+      Route
+      Number of seats booked
+      Passenger name
  
 • 🚆 View All Trains:
    Users can view a list of all trains available in the system along with:
-    - Train ID
-    - Train name
-    - Route
-    - Available seats
+     Train ID
+     Train name
+     Route
+     Available seats
